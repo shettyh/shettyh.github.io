@@ -1,0 +1,12 @@
+title: Tech Notes
+email: shettyh@outlook.com
+description: >- # this means to ignore newlines until "baseurl:"
+  ""
+url: "shettyh.github.io"
+twitter_username: _shettyh
+github_username:  shettyh
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

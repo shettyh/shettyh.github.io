@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2025-02-01 21:06:24 +0530
+categories: generic
+---
+`Hello World`
+
+{% highlight go %}
+func main() {
+  fmt.Println("Hi")
+}
+{% endhighlight %}
