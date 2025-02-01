@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am shettyh, Software Engineer for India. Interested in Distributed Systems and Databases
+I am shettyh, Software Engineer. Interested in Distributed Systems and Databases
