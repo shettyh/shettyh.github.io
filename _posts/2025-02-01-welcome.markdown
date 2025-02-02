@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome!"
 date:   2025-02-01 21:06:24 +0530
-categories: generic
+categories: [generic]
 ---
 `Hello World`
 
